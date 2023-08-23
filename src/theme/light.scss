@@ -1,0 +1,50 @@
+// 字体
+$font_color1: #2E2E44 !default;//标题正文
+$font_color2: #5D5D70 !default;//一级辅助文字
+$font_color3: #9D9DAD !default;//二级辅助文字
+
+// 背景
+$background_color1: #FFFFFF !default;//导航栏底色
+$background_color2: #F7F7FD !default;//最近访问背景
+$background_color3: #F2F2FB !default;//导航栏控件背景色
+$background_color4: #EBEBF7 !default;//页面底色
+
+$table_hover: #FBFBFE !default; // table hover背景色
+$table_left_shadow: inset 6px 0px 12px -7px rgba(46,46,68,0.1), inset 5px 0px 6px -5px rgba(46,46,68,0.12), inset 1px 0px 2px -2px rgba(46,46,68,0.16) !default;
+$table_right_shadow: inset -6px 0px 12px -7px rgba(46,46,68,0.1), inset -5px 0px 6px -5px rgba(46,46,68,0.12), inset -1px 0px 2px -2px rgba(46,46,68,0.16) !default;
+
+$view_box_title_bg: rgba(247,247,253,0.75) !default;
+$view_box_shadow: -6px 0px 12px -7px rgba(46,46,68,0.1000), -5px 0px 6px -5px rgba(46,46,68,0.1200), -1px 0px 2px -2px rgba(46,46,68,0.1600) !default;
+
+// 边框
+$border_color1: #EBEBF7 !default;//白底分割线
+$border_color2: #D1D1E0 !default;//控件线条
+
+// 链接
+$link_color: #2167F4 !default;
+$link_hover: #4D8EFF !default;
+$link_active: #134BCF !default;
+$btn_active: rgba(33, 103, 244, 0.1) !default;
+
+// 禁用
+$disabled_bg: #F7F7FD !default;
+$disabled_color: #D1D1E0 !default;
+
+// 功能
+$warning_color: #F5AB18 !default;
+$warning_bg: #FFF6E6 !default;
+$success_color: #28C41A !default;
+$success_bg: #E3FAE1 !default;
+$error_color: #EB2A2A !default;
+$error_bg: #FFE6E6 !default;
+
+$shadow_color: rgba(46, 46, 68, 0.15) !default;
+
+$tooltip_bg: #2E2E44 !default;
+$tooltip_color: rgba(255,255,255,0.85) !default;
+
+// alert
+$info_alert_bg: rgba(33,103,244,0.1000) !default;
+
+// 侧导航选中
+$menu_active: rgba(46, 46, 68, 0.08) !default;
